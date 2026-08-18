@@ -40,6 +40,8 @@ Uses the selected FOPTD models to design and simulate:
 - **P controller**
 - **PI controller**
 - **PID controller**
+- **Model Predictive Control**
+- **Kalman Filters**
 
 for all three output variables (`X`, `S`, `P`).
 
